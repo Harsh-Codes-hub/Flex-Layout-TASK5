@@ -1,10 +1,24 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+@font-face {
+    font-family: "Inter";
+    src: url("./fonts/Inter-VariableFont_opsz\,wght.woff2");
 }
 
-html, body {
-    height: 100%;
-    width: 100%;
+:root {
+  --deep-plum: #2e073f;
+  --royal-violet: #7a1cac;
+  --orchid-purple: #ad49e1;
+  --lavender-mist: #ebd3f8;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter";
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
 }
