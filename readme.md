@@ -20,7 +20,7 @@ Built using **HTML** and **CSS**, this project demonstrates responsive flex layo
 
 
 You can view and interact with the project online here:  
-👉 [Live Demo](https://YOUR-LIVE-DEMO-LINK/)
+👉 [Live Demo](https://harsh-codes-hub.github.io/Flex-Layout-TASK5/)
 
 Explore the **[project highlight]** directly in your browser.
 
