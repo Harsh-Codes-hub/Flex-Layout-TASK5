@@ -99,8 +99,8 @@ A responsive flexbox card layout showcasing user profiles with hoverable Follow 
 
 ## 👨‍💻 Author
 
-**Cohort 2.0 – Batch Task 5 Submission**
-Created by **Harsh Gajrani** _(Harsh Codes Hub)_
+**Cohort 2.0 – Batch Task 5 Submission**  
+Created by **Harsh Gajrani** _(Harsh Codes Hub)_  
 Part of the **Cohort 2.0 batch at Sheryians Coding School**
 
 ---
